@@ -3,6 +3,7 @@
   <Tasks
     @toggle-reminder="toggleReminder"
     @delete-task="deleteTask"
+    @check-task="checkTask"
     :tasks="tasks"
   />
 </template>
@@ -30,19 +31,22 @@ export default {
     {
       "id": 1,
       "text": "Doctors Appointment",
-      "day": "March 1st at 2:30pm",
+      "day": "2021-06-23",
+      "time": "10.00am",
       "reminder": true
     },
     {
       "id": 2,
       "text": "Meeting with boss",
-      "day": "March 3rd at 1:30pm",
+      "day": "2021-07-02",
+      "time": "1.30pm",
       "reminder": true
     },
     {
       "id": 3,
       "text": "Grocery Shopping",
-      "day": "March 3rd at 5:00pm",
+      "day": "2021-06-25",
+      "time": "5.00pm",
       "reminder": false
     },
 
