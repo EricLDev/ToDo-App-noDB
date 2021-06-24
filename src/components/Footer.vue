@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>Copyright &copy; 2021</p>
+    <p>Copyright &copy; EricL81 - 2021</p>
     <router-link to="/about">About</router-link>
     <br>
     <br>
@@ -18,7 +18,7 @@ a {
 }
 
 h5 {
-  color : rgb(114, 114, 114);
+  color : rgb(65, 64, 64);
 }
 footer {
   margin-top: 30px;

@@ -3,9 +3,9 @@
   <Tasks
     @toggle-reminder="toggleReminder"
     @delete-task="deleteTask"
-    @check-task="checkTask"
     :tasks="tasks"
   />
+
 </template>
 
 <script>

@@ -74,7 +74,7 @@ export default {
   margin-bottom: 40px;
 }
 .form-control {
-  margin: 20px 0;
+  margin: 10px 0;
 }
 .form-control label {
   display: block;

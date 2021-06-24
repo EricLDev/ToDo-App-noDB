@@ -41,4 +41,9 @@ header {
   align-items: center;
   margin-bottom: 20px;
 }
+h1 {
+  color: black !important;
+  font-family: "Poppins", sans-serif !important;
+
+}
 </style>
