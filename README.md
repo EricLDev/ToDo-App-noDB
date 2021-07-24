@@ -32,9 +32,7 @@ This is a small project built using Vue.js. It is my first project using Vue.js.
 <br>
 <br>
 <br>
-<br>
 
-# todo-app
 
 ## Project setup
 ```
@@ -50,6 +48,11 @@ npm run serve
 ```
 npm run build
 ```
+
+<br>
+<br>
+<br>
+<br>
 
 ## Snapshots:
 
