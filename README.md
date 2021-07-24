@@ -1,6 +1,4 @@
-# Live Website:
-
-# https://todo-app-nodb.netlify.app/
+# Live Website: https://todo-app-nodb.netlify.app/
 
 
 <br>
