@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>Copyright &copy; EricL81 - 2021</p>
+    <p>Copyright &copy; EricLDev - 2021</p>
     <router-link to="/about">About</router-link>
     <br>
     <br>
